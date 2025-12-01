@@ -2108,3 +2108,6 @@ LogInit: Object subsystem initialized
 [2025.12.01-14.41.10:898][179]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.01-14.41.10:898][179]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.01-14.41.10:899][179]AssetCheck: /Game/ThirdPerson/UI/Palette Validando ativo
+[2025.12.01-14.42.10:461][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6389.693848
+[2025.12.01-14.42.11:464][680]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.01-14.42.11:464][680]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6390.364746, Update Interval: 346.079895
