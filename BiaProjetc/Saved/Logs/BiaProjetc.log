@@ -2706,3 +2706,168 @@ Sampler Limit: 32
 [2025.12.15-14.15.55:334][701]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.15-14.15.55:334][701]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.15-14.15.55:334][701]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validando ativo
+[2025.12.15-14.21.13:392][ 29]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/UI/Palette.Palette
+[2025.12.15-14.21.13:395][ 29]LogChaosDD: Creating Chaos Debug Draw Scene for world World_32
+[2025.12.15-14.21.13:417][ 29]LogChaosDD: Creating Chaos Debug Draw Scene for world World_33
+[2025.12.15-14.21.38:327][ 61]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5017.639648
+[2025.12.15-14.21.38:504][ 70]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-14.21.38:504][ 70]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5017.796875, Update Interval: 300.411987
+[2025.12.15-14.22.01:593][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.15-14.22.01:596][210]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.087
+[2025.12.15-14.22.01:597][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.12.15-14.22.01:611][210]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.12.15-14.22.01:611][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.12.15-14.22.01:619][210]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
+[2025.12.15-14.22.01:620][210]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Saved/BP_ThirdPersonCharacter_Auto66AB0BACB43ED61153874CFB2082607C5.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
+[2025.12.15-14.22.01:620][210]LogFileHelpers: Auto-saving content packages took 0.025
+[2025.12.15-14.22.19:463][103]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.19:464][103]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.19:467][103]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.19:532][104]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.19:543][104]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.19:556][105]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.19:629][106]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.19:643][107]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.19:727][109]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.19:787][110]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.19:799][110]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.19:873][112]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.19:884][112]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.19:901][113]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.19:988][115]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.20:061][116]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.20:148][118]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.20:162][119]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.20:250][121]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.20:325][122]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.20:413][124]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.20:429][125]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.20:515][127]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.20:575][128]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastar e Soltar Widget entirely.
+[2025.12.15-14.22.22:187][202]LogEditorTransaction: Undo Arrastar e Soltar Widget
+[2025.12.15-14.26.12:792][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.15-14.27.21:348][770]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5360.645020
+[2025.12.15-14.27.21:547][780]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-14.27.21:547][780]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5360.824219, Update Interval: 357.855774
+[2025.12.15-14.34.11:169][712]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5770.468262
+[2025.12.15-14.34.11:347][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-14.34.11:348][721]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5770.626465, Update Interval: 330.127258
+[2025.12.15-14.34.49:472][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.15-14.34.49:479][909]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.097
+[2025.12.15-14.34.49:479][909]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.12.15-14.34.49:479][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.12.15-14.34.49:486][909]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2025.12.15-14.34.49:486][909]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Saved/BP_ThirdPersonCharacter_Auto72EDD169B4A3111EECD9D0C8538C7E0B7.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2025.12.15-14.34.49:487][909]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/UI/Palette] ([2] browsable assets)...
+[2025.12.15-14.34.49:490][909]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/UI/Palette.Palette]
+[2025.12.15-14.34.49:490][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/UI/Palette]
+[2025.12.15-14.34.49:497][909]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/UI/Palette_Auto7
+[2025.12.15-14.34.49:497][909]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Saved/Palette_Auto7BCAF27DA4FC2CA0014678AB0C5EE2A92.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Saved/Autosaves/Game/ThirdPerson/UI/Palette_Auto7.uasset'
+[2025.12.15-14.34.49:497][909]LogFileHelpers: Auto-saving content packages took 0.019
+[2025.12.15-14.34.58:662][364]Cmd: TRANSACTION UNDO
+[2025.12.15-14.34.58:662][364]LogEditorTransaction: Undo Definir Vinculação
+[2025.12.15-14.40.37:156][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6156.458008
+[2025.12.15-14.40.37:327][851]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.15-14.40.37:327][851]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6156.610840, Update Interval: 351.584229
+[2025.12.15-14.40.54:668][735]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.12.15-14.40.54:677][735]LogContentBrowser: Creating deferred item: NewWorld
+[2025.12.15-14.40.54:688][736]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.12.15-14.40.58:045][917]LogContentBrowser: Attempting asset rename: NewWorld -> LUZ
+[2025.12.15-14.40.58:046][917]LogChaosDD: Creating Chaos Debug Draw Scene for world LUZ
+[2025.12.15-14.40.58:066][917]LogContentBrowser: End creating deferred item NewWorld
+[2025.12.15-14.40.59:445][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.15-14.41.06:373][984]LogSlate: Window 'Salvar conteúdo' being destroyed
+[2025.12.15-14.41.07:766][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-14.41.07:874][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.12.15-14.41.07:892][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.12.15-14.41.07:911][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.12.15-14.41.07:918][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.166 ms (total: 3.10 sec)
+[2025.12.15-14.41.09:718][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.12.15-14.41.10:841][141]LogSlate: Window 'Salvar conteúdo' being destroyed
+[2025.12.15-14.41.10:851][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-14.41.10:936][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.15-14.41.10:939][141]LogSavePackage: Moving output files for package: /Game/Blueprints/LUZ
+[2025.12.15-14.41.10:939][141]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Saved/LUZFFB4491B43E8DEB09FBB94A56E2E7AF4.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Content/Blueprints/LUZ.umap'
+[2025.12.15-14.41.10:950][141]LogFileHelpers: Saving map 'LUZ' took 0.040
+[2025.12.15-14.41.10:950][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.12.15-14.41.10:950][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.12.15-14.41.10:958][141]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.12.15-14.41.10:958][141]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Saved/BP_ThirdPersonCharacter4D8CD9DD4635791291D8A8BD9126BDED.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.12.15-14.41.10:959][141]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/UI/Palette] ([2] browsable assets)...
+[2025.12.15-14.41.10:962][141]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/UI/Palette.Palette]
+[2025.12.15-14.41.10:962][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/UI/Palette]
+[2025.12.15-14.41.10:969][141]LogSavePackage: Moving output files for package: /Game/ThirdPerson/UI/Palette
+[2025.12.15-14.41.10:970][141]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Saved/Palette0F16746D48AF1CBAD67A59B1C523C131.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Content/ThirdPerson/UI/Palette.uasset'
+[2025.12.15-14.41.11:043][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.896 ms (total: 3.29 sec)
+[2025.12.15-14.41.11:043][141]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints/LUZ.LUZ
+[2025.12.15-14.41.11:043][141]Cmd: MAP LOAD FILE="../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Content/Blueprints/LUZ.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.15-14.41.11:063][141]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-14.41.11:063][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-14.41.11:063][141]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.12.15-14.41.11:087][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.15-14.41.11:092][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.15-14.41.11:095][141]LogWorld: UWorld::CleanupWorld for LUZ, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-14.41.11:095][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-14.41.11:112][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.12.15-14.41.11:129][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.15-14.41.11:130][141]LogStreaming: Display: FlushAsyncLoading(601): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-14.41.11:131][141]LogAudio: Display: Audio Device (ID: 1) registered with world 'LUZ'.
+[2025.12.15-14.41.11:131][141]LogChaosDD: Creating Chaos Debug Draw Scene for world LUZ
+[2025.12.15-14.41.11:154][141]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.15-14.41.11:172][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.15-14.41.11:177][141]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.15-14.41.11:177][141]MapCheck: Verificação do mapa concluída: 0 erro(s), 0 aviso(s), levou 0,05ms para ser concluída.
+[2025.12.15-14.41.11:239][141]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.15-14.41.11:239][141]LogContentValidation: Enabled validators:
+[2025.12.15-14.41.11:239][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-14.41.11:239][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-14.41.11:239][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-14.41.11:239][141]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-14.41.11:239][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-14.41.11:239][141]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-14.41.11:239][141]AssetCheck: /Game/Blueprints/LUZ Validando ativo
+[2025.12.15-14.41.11:239][141]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando ativo
+[2025.12.15-14.41.11:241][141]AssetCheck: /Game/ThirdPerson/UI/Palette Validando ativo
+[2025.12.15-14.41.32:710][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.12.15-14.41.32:715][540]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints/LUZ.LUZ
+[2025.12.15-14.41.32:715][540]Cmd: MAP LOAD FILE="../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Content/Blueprints/LUZ.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.15-14.41.32:727][540]LogWorld: UWorld::CleanupWorld for LUZ, bSessionEnded=true, bCleanupResources=true
+[2025.12.15-14.41.32:727][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.15-14.41.32:745][540]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.15-14.41.32:747][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.15-14.41.32:749][540]LogStreaming: Display: FlushAsyncLoading(602): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.15-14.41.32:750][540]LogAudio: Display: Audio Device (ID: 1) registered with world 'LUZ'.
+[2025.12.15-14.41.32:750][540]LogChaosDD: Creating Chaos Debug Draw Scene for world LUZ
+[2025.12.15-14.41.32:771][540]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.15-14.41.32:787][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.12.15-14.41.32:793][540]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.15-14.41.32:841][540]MapCheck: Verificação do mapa concluída: 0 erro(s), 0 aviso(s), levou 47,549ms para ser concluída.
+[2025.12.15-14.41.35:290][719]LogObjectTools: Deleting 1 worlds: /Game/Blueprints/LUZ.LUZ
+[2025.12.15-14.41.35:290][719]LogObjectTools: Currently 18 active worlds: /Game/Blueprints/LUZ.LUZ, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_5, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_20, /Engine/Transient.World_29, /Engine/Transient.World_30, /Engine/Transient.World_31, /Engine/Transient.World_32, /Engine/Transient.World_33
+[2025.12.15-14.41.36:432][719]LogSlate: Window 'Não é possível excluir o nível' being destroyed
+[2025.12.15-14.41.36:448][719]Message dialog closed, result: Ok, title: Não é possível excluir o nível, text: Não é possível excluir o nível enquanto ele está aberto
+[2025.12.15-14.41.47:602][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.15-14.41.47:716][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.15-14.41.47:721][613]LogSavePackage: Moving output files for package: /Game/Blueprints/LUZ
+[2025.12.15-14.41.47:723][613]LogSavePackage: Moving '../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Saved/LUZ23E7E00E49CA195BA59DAEB2B9DA5352.tmp' to '../../../../../../Users/Aluno/Documents/Unreal Projects/turma2025-2-bianca-bispo/BiaProjetc/Content/Blueprints/LUZ.umap'
+[2025.12.15-14.41.47:730][613]LogFileHelpers: Saving map 'LUZ' took 0.045
+[2025.12.15-14.41.47:736][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.533 ms (total: 3.42 sec)
+[2025.12.15-14.41.47:796][613]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.15-14.41.47:796][613]LogContentValidation: Enabled validators:
+[2025.12.15-14.41.47:796][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.15-14.41.47:796][613]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.15-14.41.47:796][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.15-14.41.47:796][613]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.15-14.41.47:796][613]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.15-14.41.47:796][613]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.15-14.41.47:796][613]AssetCheck: /Game/Blueprints/LUZ Validando ativo
+[2025.12.15-14.41.51:211][867]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Platform.BP_Platform
+[2025.12.15-14.41.51:211][867]LogChaosDD: Creating Chaos Debug Draw Scene for world World_35
+[2025.12.15-14.41.56:129][188]LogObjectTools: Deleting 1 worlds: /Game/Blueprints/LUZ.LUZ
+[2025.12.15-14.41.56:129][188]LogObjectTools: Currently 19 active worlds: /Game/Blueprints/LUZ.LUZ, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_5, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_20, /Engine/Transient.World_29, /Engine/Transient.World_30, /Engine/Transient.World_31, /Engine/Transient.World_32, /Engine/Transient.World_33, /Engine/Transient.World_35
+[2025.12.15-14.41.57:743][188]LogSlate: Window 'Não é possível excluir o nível' being destroyed
+[2025.12.15-14.41.57:757][188]Message dialog closed, result: Ok, title: Não é possível excluir o nível, text: Não é possível excluir o nível enquanto ele está aberto
+[2025.12.15-14.42.01:380][466]LogObjectTools: Deleting 1 worlds: /Game/Blueprints/LUZ.LUZ
+[2025.12.15-14.42.01:380][466]LogObjectTools: Currently 19 active worlds: /Game/Blueprints/LUZ.LUZ, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_5, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_20, /Engine/Transient.World_29, /Engine/Transient.World_30, /Engine/Transient.World_31, /Engine/Transient.World_32, /Engine/Transient.World_33, /Engine/Transient.World_35
+[2025.12.15-14.42.02:531][466]LogSlate: Window 'Não é possível excluir o nível' being destroyed
+[2025.12.15-14.42.02:540][466]Message dialog closed, result: Ok, title: Não é possível excluir o nível, text: Não é possível excluir o nível enquanto ele está aberto
